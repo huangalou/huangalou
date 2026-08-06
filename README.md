@@ -25,5 +25,5 @@ Vendor certifications span **three brand eras of the same product line — ArcSi
 
 ## 📫 Contact
 
-- 📧 alou@joshhuang.tw
+- 📧 alou@joshhuang.tw / alou.huang@gmail.com
 - 🔗 [linkedin.com/in/josh-huang](https://linkedin.com/in/josh-huang)
