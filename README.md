@@ -22,6 +22,9 @@ Vendor certifications span **three brand eras of the same product line — ArcSi
 - Micro Focus APJ Technical Bootcamp — ArcSight ESM / ADP / Investigate (Bangkok, 2018)
 - HP Enterprise Security University — ArcSight ESM Advanced Administration, instructor-led (2014)
 - **Splunk Accredited Sales Engineer I** (2020)
+- **ISO/IEC 27001 ISMS Auditor/Lead Auditor Training** — BSI (2013)
+- **Red Hat Certified Engineer (RHCE)** — RHEL 3 (2004)
+- **Red Hat Certified Virtualization Administrator (RHCVA)** — EX318 (2011)
 
 ## 📫 Contact
 
