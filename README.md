@@ -14,15 +14,6 @@ Currently focused on **SIEM modernization and AI-assisted security operations**:
 - **AI-Assisted SecOps** — LLM-augmented detection triage, Claude Code–based automation workflows
 - **OT / Critical Infrastructure Security** — IEC 62443, NIST SP 800-82, Purdue model / IDMZ; OT Zero Trust (white paper in progress)
 
-## 🚧 Selected projects
-
-> Public versions being prepared — sanitized releases coming soon.
-
-- **Josh-AI-SOC** — AI-driven SOC platform: Wazuh + local LLM, replacing a legacy ArcSight ESM deployment
-- **CyberRange** — attack simulation companion for SIEM validation: catalog-driven sample log generation per vendor, fed straight into your SIEM
-- **esm-package-lint** — hygiene checker for ArcSight ESM content packages: duplicates, conflicts, broken references, sensitive strings
-- **esm-attack-bridge** — ArcSight ESM rules → MITRE ATT&CK Navigator layer mapping
-
 ## 📜 Certifications & vendor training
 
 Vendor certifications span **three brand eras of the same product line — ArcSight (HP) → Micro Focus → OpenText**:
