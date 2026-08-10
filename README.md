@@ -6,6 +6,10 @@
 
 Currently focused on **SIEM modernization and AI-assisted security operations**: migrating legacy ArcSight ESM deployments, building AI-driven SOC tooling, and running a self-hosted dual-SIEM lab to keep hands-on skills sharp.
 
+## Selected projects
+
+- **[CyberRange](https://github.com/huangalou/CyberRange)** — DetectOps harness: vendor-accurate log generation (53 catalog specs, 23 vendor lines) → SIEM ingestion (Wazuh / Elastic) → verified detection, with Time-to-Detect KPIs. Python engine + FastAPI + Next.js. Apache-2.0.
+
 ## 🔧 What I work on
 
 - **SIEM Engineering** — ArcSight ESM / SmartConnectors / Logger, Splunk, Elastic Security, Wazuh; architecture & sizing, performance tuning, platform migration
